@@ -8,7 +8,8 @@ import io.restassured.path.json.JsonPath;
 import static org.hamcrest.Matchers.*;
 
 import files.payLoad;
-
+//comments aaded by vara
+//added new method
 
 public class Basics {
 
